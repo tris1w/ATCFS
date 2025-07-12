@@ -1,2 +1,90 @@
 # ATCFS
 Teenage car cleaning company website 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ATCSF Car Cleaning Services</title>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+
+  <header>
+    <img src="logo.png" alt="ATCSF Logo" class="logo"/>
+    <h1>ATCSF Car Cleaning Services</h1>
+    <p>5 minds, one vision</p>
+  </header>
+
+  <section class="about">
+    <h2>Who We Are</h2>
+    <p>We are five 15-year-old entrepreneurs offering professional car cleaning services with passion and precision. We come to you — 100% mobile!</p>
+  </section>
+
+  <section class="services">
+    <h2>Pricing</h2>
+    <div class="price-list">
+      <div>
+        <h3>Hatchback</h3>
+        <p>Interior: £8</p>
+        <p>Exterior: £18</p>
+      </div>
+      <div>
+        <h3>Saloon</h3>
+        <p>Interior: £12</p>
+        <p>Exterior: £22.50</p>
+      </div>
+      <div>
+        <h3>SUV</h3>
+        <p>Interior: £15</p>
+        <p>Exterior: £25</p>
+      </div>
+      <div>
+        <h3>Pick-up Truck</h3>
+        <p>Interior: £15</p>
+        <p>Exterior: £27.50</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="deals">
+    <h2>Special Deals</h2>
+    <ul>
+      <li>SUV + Hatchback: <strong>£59.99</strong></li>
+      <li>SUV + Saloon: <strong>£69.99</strong></li>
+    </ul>
+  </section>
+
+  <section class="team">
+    <h2>Meet the Team</h2>
+    <ul>
+      <li><strong>Tristan W</strong> – Founder, Washer</li>
+      <li><strong>Charlie H</strong> – Co-founder, Washer</li>
+      <li><strong>Archie CJ</strong> – Washer</li>
+      <li><strong>Samuel W</strong> – Washer</li>
+      <li><strong>Freddie S</strong> – Washer</li>
+    </ul>
+  </section>
+
+  <section class="hours">
+    <h2>Opening Hours</h2>
+    <ul>
+      <li>Mon – Fri: 10:00 AM – 8:30 PM</li>
+      <li>Sat: 10:00 AM – 4:00 PM</li>
+      <li>Sun: Closed</li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>Contact Us</h2>
+    <p>We’re 100% mobile — we come to you!</p>
+    <p>Email: <a href="mailto:info@atcsfcleaning.com">info@atcsfcleaning.com</a></p>
+    <p>Phone: <a href="tel:+441234567890">+44 1234 567 890</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 ATCSF Car Cleaning Services</p>
+  </footer>
+
+</body>
+</html>
